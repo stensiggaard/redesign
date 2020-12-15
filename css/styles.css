@@ -15,5 +15,9 @@ transform:translateX(-100%);}
     #menuknap{
         display:none;
     }
+    #menu.hidden{
+        transform: translateX(0);
+        opacity: 1;
 
+    }
 }
