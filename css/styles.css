@@ -1,7 +1,7 @@
-/*
-.hidden{opacity:0;
+
+.hidden {opacity:0;
 transform:translateX(-100%);}
-*/
+
 #menuknap{
     display: inline-block;
 }
