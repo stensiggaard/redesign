@@ -1,5 +1,12 @@
+/*
 .hidden{opacity:0;
 transform:translateX(-100%);}
+*/
 #menuknap{
     display: inline-block;
+}
+#menu{
+    list-style-type: none;
+    transition: transform 0.3s;
+    transform-origin: top left;
 }
