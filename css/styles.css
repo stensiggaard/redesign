@@ -20,4 +20,9 @@ transform:translateX(-100%);}
         opacity: 1;
 
     }
+
+    #menu li{
+        display: inline-block;
+
+    }
 }
